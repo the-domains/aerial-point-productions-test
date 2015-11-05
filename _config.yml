@@ -1,20 +1,4 @@
-name: Aerial Point Productions TEST
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.40968
-title: Test Page for Aerial Point Productions
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#211f20'
@@ -24,6 +8,11 @@ color:
     - '#515254'
   brandStrength: 0.5
   lightness: 0.4209988731890917
-  saturation: 0.4252499716822058
   rhythmicContrast: 0.9911496578715742
+  saturation: 0.4252499716822058
+cta: {}
+layout_spectrum: 0.205357
+name: Aerial Point Productions TEST
+opengraph: {}
 purpose: []
+typography_spectrum: 0.40968
