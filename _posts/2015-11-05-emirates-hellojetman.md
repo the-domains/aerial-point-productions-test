@@ -17,8 +17,8 @@ keywords:
   - jumeirah
   - '024'
 description: "Armed with unguarded ambition and the vision to push boundaries beyond the unthinkable, Jetman Dubai and Emirates A380 take to the skies of Dubai for an exceptional formation flight. A carefully choreographed aerial showcase, conducted over the Palm Jumeirah and Dubai skyline, involving the world's largest passenger aircraft and the experienced Jetman Dubai pilots Yves Rossy and Vince Reffet."
-datePublished: '2015-11-05T19:13:45.460Z'
-dateModified: '2015-11-05T19:13:42.180Z'
+datePublished: '2015-11-05T19:23:37.466Z'
+dateModified: '2015-11-05T19:23:11.488Z'
 author:
   - name: XDubai
     url: 'https://www.youtube.com/channel/UClujD4c9eraF2bcPpcVqkPQ'
@@ -48,6 +48,8 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_VPvKl6ezyc%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_VPvKl6ezyc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_VPvKl6ezyc%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1305317-8124-458e-ac0b-ce65da484c48.jpg)
 
-We may not be able to follow a A380 in the sky for a video shoot yet, but what these two flyboys did in Dubai is pretty impressive.
+We may not be able to follow a A380 in the sky for a video shoot yet, but what these two flyboys did in Dubai is pretty impressive. 
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_VPvKl6ezyc%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_VPvKl6ezyc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_VPvKl6ezyc%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
