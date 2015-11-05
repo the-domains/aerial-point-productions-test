@@ -2,6 +2,7 @@ name: Aerial Point Productions TEST
 favicon: null
 layout_spectrum: 0.30476477881893516
 typography_spectrum: 0.37836854881606996
+title: Test Page for Aerial Point Productions
 cta:
   domain: null
   bucket: null
