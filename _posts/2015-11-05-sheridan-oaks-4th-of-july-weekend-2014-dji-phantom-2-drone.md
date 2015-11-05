@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 keywords:
   - duration
   - dji
@@ -35,13 +35,15 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=brQXzKpuWJY'
 title: Sheridan Oaks 4th of July Weekend 2014 - DJI Phantom 2 Drone
-datePublished: '2015-11-05T18:48:26.156Z'
-dateModified: '2015-11-05T18:48:10.456Z'
+datePublished: '2015-11-05T18:48:57.821Z'
+dateModified: '2015-11-05T18:48:48.867Z'
 sourcePath: _posts/2015-11-05-sheridan-oaks-4th-of-july-weekend-2014-dji-phantom-2-drone.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
