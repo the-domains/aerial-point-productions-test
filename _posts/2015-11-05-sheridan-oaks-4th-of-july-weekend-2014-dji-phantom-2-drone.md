@@ -1,14 +1,9 @@
 ---
-author:
-  - name: IM0001
-    url: 'https://www.youtube.com/user/IM0001'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - duration
   - dji
@@ -21,7 +16,13 @@ keywords:
   - test
   - multielfo
 description: 'This is Sheridan Oaks Water Ski Club during 4th of July Weekend 2014. All footage is from a GoPro Hero3Black @ 1440P/48 flown on a DJI Phantom 2 + H3-3D and Edited in Adobe Premiere. Music: Snow Patrol - Shut Your Eyes Metermaids - Turn The Lights Out!'
-inLanguage: en
+datePublished: '2015-11-05T18:54:57.808Z'
+dateModified: '2015-11-05T18:54:47.043Z'
+author:
+  - name: IM0001
+    url: 'https://www.youtube.com/user/IM0001'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=brQXzKpuWJY&feature=applinks'
     type: ios
@@ -33,17 +34,16 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=brQXzKpuWJY&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=brQXzKpuWJY'
 title: Sheridan Oaks 4th of July Weekend 2014 - DJI Phantom 2 Drone
-datePublished: '2015-11-05T18:48:57.821Z'
-dateModified: '2015-11-05T18:48:48.867Z'
 sourcePath: _posts/2015-11-05-sheridan-oaks-4th-of-july-weekend-2014-dji-phantom-2-drone.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: false
 authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: sheridan-oaks-4th-of-july-weekend-2014-dji-phantom-2-drone/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
