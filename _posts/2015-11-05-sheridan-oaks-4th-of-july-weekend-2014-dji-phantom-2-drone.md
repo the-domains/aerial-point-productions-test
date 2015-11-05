@@ -17,8 +17,8 @@ keywords:
   - test
   - multielfo
 description: 'This is Sheridan Oaks Water Ski Club during 4th of July Weekend 2014. All footage is from a GoPro Hero3Black @ 1440P/48 flown on a DJI Phantom 2 + H3-3D and Edited in Adobe Premiere. Music: Snow Patrol - Shut Your Eyes Metermaids - Turn The Lights Out!'
-datePublished: '2015-11-05T19:23:32.395Z'
-dateModified: '2015-11-05T19:23:30.100Z'
+datePublished: '2015-11-05T22:38:19.263Z'
+dateModified: '2015-11-05T22:34:05.423Z'
 author:
   - name: IM0001
     url: 'https://www.youtube.com/user/IM0001'
