@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=brQXzKpuWJY'
 title: Sheridan Oaks 4th of July Weekend 2014 - DJI Phantom 2 Drone
-datePublished: '2015-11-05T18:44:18.909Z'
-dateModified: '2015-11-05T18:37:59.112Z'
+datePublished: '2015-11-05T18:48:26.156Z'
+dateModified: '2015-11-05T18:48:10.456Z'
 sourcePath: _posts/2015-11-05-sheridan-oaks-4th-of-july-weekend-2014-dji-phantom-2-drone.md
 published: true
 inFeed: true
