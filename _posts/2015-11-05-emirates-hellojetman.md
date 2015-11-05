@@ -17,8 +17,8 @@ keywords:
   - jumeirah
   - '024'
 description: "Armed with unguarded ambition and the vision to push boundaries beyond the unthinkable, Jetman Dubai and Emirates A380 take to the skies of Dubai for an exceptional formation flight. A carefully choreographed aerial showcase, conducted over the Palm Jumeirah and Dubai skyline, involving the world's largest passenger aircraft and the experienced Jetman Dubai pilots Yves Rossy and Vince Reffet."
-datePublished: '2015-11-05T21:14:55.069Z'
-dateModified: '2015-11-05T21:14:51.903Z'
+datePublished: '2015-11-05T22:38:23.040Z'
+dateModified: '2015-11-05T22:34:31.349Z'
 author:
   - name: XDubai
     url: 'https://www.youtube.com/channel/UClujD4c9eraF2bcPpcVqkPQ'
