@@ -1,4 +1,19 @@
-analytics: {}
+name: Aerial Point Productions TEST
+favicon: null
+layout_spectrum: 0.391233
+typography_spectrum: 0.40968
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#211f20'
@@ -6,13 +21,8 @@ color:
     - '#6e6f71'
     - '#dadbdd'
     - '#515254'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.4209988731890917
-  rhythmicContrast: 0.9911496578715742
   saturation: 0.4252499716822058
-cta: {}
-layout_spectrum: 0.391233
-name: Aerial Point Productions TEST
-opengraph: {}
+  rhythmicContrast: 0.9911496578715742
 purpose: []
-typography_spectrum: 0.40968
