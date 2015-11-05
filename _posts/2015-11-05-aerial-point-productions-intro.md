@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: Introduction to the Aerial Point Productions GRID Page.
-datePublished: '2015-11-05T19:06:14.191Z'
-dateModified: '2015-11-05T19:06:11.875Z'
+datePublished: '2015-11-05T19:13:23.886Z'
+dateModified: '2015-11-05T19:13:20.297Z'
 title: Aerial Point Productions Intro
 sourcePath: _posts/2015-11-05-aerial-point-productions-intro.md
 published: true
@@ -17,8 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: aerial-point-productions-intro/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0ea4e3b-a464-42de-9c95-001e23524a06.jpg)
