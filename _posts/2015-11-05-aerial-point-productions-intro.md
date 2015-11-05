@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Introduction to the Aerial Point Productions GRID Page.
-datePublished: '2015-11-05T22:41:34.025Z'
-dateModified: '2015-11-05T22:41:31.835Z'
+datePublished: '2015-11-05T23:10:57.014Z'
+dateModified: '2015-11-05T23:10:44.869Z'
 title: Aerial Point Productions Intro
 sourcePath: _posts/2015-11-05-aerial-point-productions-intro.md
 published: true
