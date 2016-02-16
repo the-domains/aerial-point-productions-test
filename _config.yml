@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Aerial Point Productions TEST
 opengraph:
   image: null
   type: null
@@ -18,7 +16,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0
+purpose: []
 color:
   saturation: 0.5
   brandStrength: 0
@@ -30,11 +28,13 @@ color:
     - '#dadbdd'
     - '#515254'
   lightness: 0.5
-purpose: []
+typography_spectrum: 0.1260454
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
-name: Aerial Point Productions TEST
-typography_spectrum: 0.1260454
+layout_spectrum: 0.4235364
+analytics:
+  twitter: null
+  google: null
+  facebook: null
