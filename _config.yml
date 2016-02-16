@@ -1,5 +1,7 @@
-favicon: null
-name: Aerial Point Productions TEST
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -10,13 +12,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-purpose: []
+layout_spectrum: 0.4235364
 color:
   saturation: 0.5
   brandStrength: 0
@@ -28,13 +30,11 @@ color:
     - '#dadbdd'
     - '#515254'
   lightness: 0.5
-typography_spectrum: 0.1260454
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.4235364
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Turtle Giant
+typography_spectrum: 0.1260454
